@@ -1,3 +1,5 @@
+LEVERGING  WEB 2.0  technologies for heath 
+
 A&E departments are under increasing pressure, which is leading to high numbers of patients being admitted, according to a new report from the National Audit Office (NAO).  As a team of senior clinicians working with accident and emergency we are first to feel that pressure and we are engaging our community. There are man factors to consider:
 
 Public ignorant of NHS out-of-hours options, except A&E
@@ -49,3 +51,16 @@ View our Pricing Philosophy
 ##Health literacy Key themes
 
 Patient Engagement, Patient Feedback, Patient Support, Patient Communication, Patient Education, Practitioner Education. health Outcomes, Equitable Health, Health Information, Patient Empowerment, Patient Enablement, Health Transformation, Diverse Communities, Patient Outreach, Community Health Services, Stakeholder Engagement, Health Behaviour, Health Technologies, Health Monitoring, Health Service Evaluation, Health Service transformation, Patient Activation Measure (PAM), Patient Reviews. Visitation. inertness, Digital Engagement, Social Engagement.
+
+
+
+
+Martin Anderson
+CLINICAL PRACTITIONER 
+COGNOS DEVELOPER 
+PNP CC, BscEc, DIpHe Nursing, AutNurPra , ANP, NP, NMP, ENP, TICS
+Microsoft Partner
+Microsoft Azure Developer Benefit Program
+IBM Business Blockchainge 
+IBM Cloud X2 Badge Holder
+IBM Data Science Practitioner
